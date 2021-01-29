@@ -124,7 +124,7 @@
     <module>xchange-cexio</module>
     <module>xchange-cobinhood</module>
     <module>xchange-coinbase</module>
-    <module>xchange-coinbasepro</module>
+    <!--module>xchange-coinbasepro</module-->
     <module>xchange-coindeal</module>
     <module>xchange-coindirect</module>
     <module>xchange-coinbene</module>
@@ -562,7 +562,7 @@
           </includes>
         </configuration>
       </plugin>
-      <plugin>
+      <!--plugin>
         <groupId>com.coveo</groupId>
         <artifactId>fmt-maven-plugin</artifactId>
         <version>2.10</version>
@@ -577,7 +577,7 @@
             </goals>
           </execution>
         </executions>
-      </plugin>
+      </plugin-->
 
     </plugins>
   </build>
